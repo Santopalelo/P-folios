@@ -63,7 +63,7 @@ box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 }
 #contact{
   box-shadow: 0 5px 10px 0;
-  background-color: blue;
+  background-color: white;
 }
 #contactForm{
   display: flex;
