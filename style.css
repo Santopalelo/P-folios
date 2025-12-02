@@ -15,15 +15,16 @@ color: #334155;
 nav a {
 color: #1e293b;
 text-decoration: none;
+width: 100%;
 margin: 0 15px;
 font-weight: bold;
 transition: 0.1s all;
 }
 nav a:hover {
 color: #3b82f6;
+background-color: gray;
 text-decoration: underline;
 }
-
 
 section {
 padding: 60px 20px;
@@ -64,6 +65,7 @@ box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 #contact{
   box-shadow: 0 5px 10px 0;
   background-color: white;
+
 }
 #contactForm{
   display: flex;
